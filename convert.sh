@@ -1,3 +1,5 @@
+#Script para converter conjuntuo de imagens de .jpg para .png;
+
 #!/bin/bash
 
 cd imagens-livros
@@ -10,4 +12,6 @@ do
 done
 
 cd ..
+
+#Autor: Ryan Guilherme
 
