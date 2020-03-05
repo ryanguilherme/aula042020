@@ -1,4 +1,5 @@
 #Script para converter conjuntuo de imagens de .jpg para .png;
+#alterado por torres
 
 #!/bin/bash
 
